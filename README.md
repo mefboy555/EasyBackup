@@ -1,6 +1,4 @@
 # EasyBackup
-Bash script for easy backup
-
 
 
 Bash script for backup directory that u choose
